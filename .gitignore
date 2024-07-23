@@ -1,0 +1,17 @@
+# .gitignore
+.gitignore
+
+*.vs/
+*.__pycache__/
+
+# Other files to ignore
+*.DS_Store
+*.idea/
+*.vscode/
+*.vs/
+
+# Ignore specific project files
+/*.code-workspace
+
+# Ignore specific user settings
+/settings.json
